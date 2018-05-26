@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 print ("Hello world;");
 print ("Hello everyone;")
 print ("I'm a Batman;")
+print ("hi players;")
